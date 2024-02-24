@@ -88,3 +88,18 @@ header img {
     float: left; 
     margin-right: 100px; 
 }
+
+.imagenesPerfil{
+    width: auto;
+    height: 300px;
+    margin: 2%;
+}
+.lista {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.comoPo{
+    background-color: aqua;
+    font-size: 30px;
+}
